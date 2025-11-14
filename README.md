@@ -1,6 +1,6 @@
 ## Hallo! Ik ben Magomed Ismailov.
 
-## Welkom in mijn GitHub profiel! Ik ben student Software-developer en ik leer nu PHP (backend) en een beetje html/css (frontend)
+## Welkom in mijn GitHub profiel! Ik ben student Software-developer en ik leer nu PHP (backend) en een beetje html/css
 
 ## Waar werk ik nu aan?
 *  PHP (backend)
